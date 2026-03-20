@@ -1,51 +1,59 @@
-# Automated School Bell Control System
+# Automatic Hand Dryer Using Sensors
 
-An automated system designed to control and schedule school bell ringing based on predefined time settings.
-This project aims to reduce manual intervention and ensure accurate and consistent bell operation.
+An automatic hand dryer system designed to detect hands using sensors and activate airflow without physical contact.
 
----
-
-## 🎯 Project Objectives
-- Automate school bell ringing based on time schedules
-- Improve accuracy and reliability of bell timing
-- Reduce human error in daily school operations
+This project improves hygiene and reduces energy waste by operating only when needed.
 
 ---
 
-## ⚙️ System Overview
-The system operates by comparing real-time clock data with predefined schedules.
-When the scheduled time is reached, the system automatically triggers the bell.
+## 🎯 Objectives
+- Provide touchless hand drying
+- Improve hygiene
+- Reduce unnecessary energy consumption
+- Automate daily-use devices
+
+---
+
+## ⚙️ How It Works
+The system uses a sensor to detect the presence of hands.
+When hands are detected, the microcontroller activates the dryer (fan or motor).
+When hands are removed, the system automatically stops.
 
 ---
 
 ## 🧩 Components Used
-- Microcontroller (Arduino / ESP32)
-- Relay module
-- Real-Time Clock (RTC) module
-- Power supply
-- Electric bell
+- Microcontroller (Arduino)
+- Sensor (IR / Ultrasonic)
+- Relay Module or Transistor
+- Motor / Fan
+- Power Supply
 
 ---
 
 ## 🛠️ Features
-- Fully automated bell control
-- Time-based scheduling
-- Reliable and repeatable operation
-- Suitable for school environments
+- Touchless operation
+- Automatic ON/OFF control
+- Energy efficient
+- Simple and reliable system
 
 ---
 
-## 📌 Applications
-- Schools
-- Educational institutions
-- Any environment requiring scheduled alarms
+## 📂 Project Structure
+- /code → Source code
+- /images → Project photos
+- /docs → Diagrams
 
 ---
 
-## 📷 Project Media
-Photos and system diagrams will be added soon.
+## 🎥 Demo Video
+(Add your YouTube link here)
 
 ---
 
-## 📄 License
-This project is developed for educational purposes.
+## 📷 Project Image
+(Image will be added here)
+
+---
+
+## 📄 Educational Purpose
+This project was developed for learning and practical engineering experience.
