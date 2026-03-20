@@ -32,4 +32,5 @@ When hands are removed, the system automatically stops.
 ---
 
 ##  Demo Video
-https://youtube.com/shorts/yVpKz9080Ew?si=UMfYEiWddKxPsTxR
+Watch the project in action:
+https://youtube.com/shorts/yVpKz9080Ew
